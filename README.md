@@ -78,9 +78,18 @@ To improve the operational efficiency and profitability of an automotive manufac
                           'Employee Productivity'[efficiency] >= 2, "Moderately Efficient",
                           'Employee Productivity'[efficiency] < 2, "Inefficient")
    ```
+   
 ---
-## **Visualizations**
+## **Model View**
+---
 
+## **Visualizations**
+![Screenshot 2025-01-10 202832](https://github.com/user-attachments/assets/eb64cdf2-38e9-42d9-b14f-f37ae9377d55)
+![Screenshot 2025-01-10 203229](https://github.com/user-attachments/assets/a58757fc-b3cc-4a7c-acc1-1e6db9489af1)
+![Screenshot 2025-01-10 202741](https://github.com/user-attachments/assets/8d4048d0-7982-4943-800f-185a41a6d755)
+![Screenshot 2025-01-10 202758](https://github.com/user-attachments/assets/a40db62a-6df1-4ca3-a927-63e939ba32d6)
+![Screenshot 2025-01-10 202809](https://github.com/user-attachments/assets/935ac76d-ec03-4b0f-b8a7-36318e304aa5)
+![Screenshot 2025-01-10 202821](https://github.com/user-attachments/assets/3021872f-6c79-41fa-af87-35e391d78d38)
 
 
 ## Contact
