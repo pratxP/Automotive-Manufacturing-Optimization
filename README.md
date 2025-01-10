@@ -79,37 +79,10 @@ To improve the operational efficiency and profitability of an automotive manufac
                           'Employee Productivity'[efficiency] < 2, "Inefficient")
    ```
 ---
+## **Visualizations**
 
-## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-organization/automotive-optimization.git
-   ```
-
-2. Navigate to the repository folder:
-   ```bash
-   cd automotive-optimization
-   ```
-
-3. Explore the `notebooks` directory for detailed analysis or use the `scripts` for automated data processing.
-
-4. Open dashboards in Power BI or Tableau to visualize insights.
-
----
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 ## Contact
 
-For questions or support, please contact [email@example.com].
+For questions or support, please contact [pratyaksh@gmail.com].
