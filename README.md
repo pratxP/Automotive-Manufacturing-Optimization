@@ -3,6 +3,9 @@
 ## Problem Statement
 To improve the operational efficiency and profitability of an automotive manufacturing company by analyzing production, costs, employee productivity, and sales data to identify areas for process optimization, cost reduction, and sales growth.
 
+## Problem Statement
+To improve the operational efficiency and profitability of an automotive manufacturing company by analyzing production, costs, employee productivity, and sales data to identify areas for process optimization, cost reduction, and sales growth.
+
 ---
 
 ## Objectives
